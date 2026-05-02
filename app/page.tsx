@@ -46,16 +46,7 @@ export default function Home() {
           Login
         </a>
 
-        <a href="/dashboard" style={{
-          padding: "12px 24px",
-          border: "1px solid #334155",
-          borderRadius: "8px",
-          textDecoration: "none",
-          color: "#cbd5f5",
-          fontWeight: "500"
-        }}>
-          Dashboard
-        </a>
+        
 
       </div>
 
